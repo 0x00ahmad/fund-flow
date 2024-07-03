@@ -43,10 +43,10 @@ To follow DRY principles and re-use logic between the 4 apps.
 
 You can check it out in action on:
 
-https://fundflowtheta.vercel.app
-https://fundflowblog.vercel.app
-https://fundflowsupport.vercel.app
-https://fundflow-backend-admin.vercel.app
+[Demo frontend](https://fundflowtheta.vercel.app)
+[Demo blog](https://fundflowblog.vercel.app)
+[Demo support site](https://fundflowsupport.vercel.app)
+[Demo Admin](https://fundflow-backend-admin.vercel.app)
 
 ## Where's the source code?
 
